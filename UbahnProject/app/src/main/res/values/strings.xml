@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ubahn</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_view">BERLIN</string>
+    <string name="cargando_datos">Cargando Datos...</string>
+    <string name="title_activity_lineas">LINEAS</string>
+    <string name="title_activity_lineasy_planos">LineasyPlanos</string>
+    <string name="dondequieresir">¿DÓNDE QUIERES IR?</string>
+    <string name="estacionorigen">Estación de origen</string>
+    <string name="estaciondestino">Estación de destino</string>
+    <string name="cuando">¿CUÁNDO?</string>
+    <string name="vertrenes">VER TRENES</string>
+
+    <string name="averialinea">Lineas:</string>
+    <string name="averia">Por averias en las instalaciones de Deutsche Bahn AG, los trenes de las lineas sufren demoras superiores a 10 min</string>
+    <string name="title_activity_info">Info</string>
+    <string name="info">Solicita tu nueva tarjeta sin contacto de U-bahn Berlin en estaciones y ubahn.de. Mas comoda, segura y rapida. Es gratuita durante la fase de lanzamiento, dandote de alta por primera vez en el programa de fidelizacion +U-bahn</string>
+    <string name="title_activity_att_cliente">AttCliente</string>
+    <string name="tipo">Tipo de peticion:</string>
+    <string name="informacion">Informacion</string>
+    <string name="attcliente">Att. Cliente - U-bahn  </string>
+    <string name="berlin">BERLIN</string>
+    <string name="queja">Queja</string>
+    <string name="sugerencia">Sugerencia</string>
+    <string name="nombre">Nombre</string>
+    <string name="primerapellido">Primer Apellido</string>
+    <string name="segundoapellido">Segundo Apellido</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="telefono">Telefono</string>
+    <string name="identificacion">Documento de Identidad</string>
+    <string name="comentarios">Comentarios(*)</string>
+    <string name="leyenda">(*)No introduzca en el espacio destinado a comentarios datos personales o comprometidos</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="ley">En cumplimiento de lo establecido en el artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (en adelante, LOPD), le informamos de modo expreso, preciso e inequívoco que los datos facilitados por usted a través de los formularios dispuestos al efecto en nuestra página web o en cualquier otro canal de recogida de los mismos, así como los que se generen durante su relación con nuestra entidad, serán objeto de tratamiento en los ficheros responsabilidad de , debidamente notificados en el Registro General de la Agencia Española de Protección de Datos, con la finalidad del mantenimiento y cumplimiento de la relación del destinatario del servicio con nuestra entidad y prestación de servicios derivada de la misma.
+
+Así mismo, en cumplimiento de lo establecido en la citada LOPD y en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (en adelante, LSSI-CE), le informamos que sus datos podrán ser utilizados con la finalidad de enviarle comunicaciones comerciales y de cortesía relacionadas con nuestra entidad a través del teléfono, correo postal ordinario, fax, correo electrónico o medios de comunicación electrónica equivalentes.</string>
+    <string name="seleccione">Titulo de Transporte</string>
+    <string name="billete">Billete</string>
+    <string name="abono">Abono</string>
+    <string name="sinbillete">Sin Billete</string>
+    <string name="otros">Otros</string>
+    <string name="origen">Estacion de Origen</string>
+    <string name="destino">Estacion de Destino</string>
+    <string name="lugar">Lugar del Incidente</string>
+    <string name="fecha">Fecha del Incidente</string>
+    <string name="documento">Documento de identidad</string>
+    <string name="title_activity_estaciones">Estaciones</string>
+    <string name="title_activity_plano">Plano</string>
+    <string name="plano">PLANO</string>
+
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ubahn.joel.ubahnproject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoapp"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".view.AnimationView"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.MainActivity"
+            android:label="" />
+        <activity
+            android:name=".view.AttCliente"
+            android:label="@string/title_activity_att_cliente"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".view.Info"
+            android:label="@string/title_activity_info" />
+        <activity
+            android:name=".view.LineasyPlanos"
+            android:label="@string/title_activity_lineasy_planos" />
+        <activity
+            android:name=".view.Estaciones"
+            android:label="@string/title_activity_estaciones" />
+    </application>
+
+</manifest>

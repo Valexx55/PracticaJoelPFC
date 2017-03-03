@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="transporte">
+        <item>@string/billete</item>
+        <item>@string/abono</item>
+        <item>@string/sinbillete</item>
+        <item>@string/otros</item>
+    </string-array>
+</resources>

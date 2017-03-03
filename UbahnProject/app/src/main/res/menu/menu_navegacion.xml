@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/reloj_menu"
+            android:title="Rutas y Horarios"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_2"
+
+            android:title="Planos y Lineas"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_4"
+
+            android:title="Informacion"/>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_5"
+
+            android:title="Att. Cliente"/>
+    </group>
+</menu>
